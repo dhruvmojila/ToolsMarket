@@ -1,0 +1,398 @@
+ .navbar-light .navbar-brand {
+    color: rgb(255 1 1 / 90%);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255 255 255 / 90%);
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #ffc10a;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(255 255 255 / 90%);
+}
+.navbar-light .navbar-brand:hover {
+    color: rgb(255 255 255 / 90%);
+}
+.navbar-light .navbar-text {
+    color: #ffc10a;
+    margin-right: 10px;
+}
+.mt-lg-0, .my-lg-0 {
+    margin-top: 0!important;
+    margin-right: 3%;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: 1.5rem;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    border: 1px solid #ffc10a;
+    color: #ffc10a;
+}
+.btn:not(:disabled):not(.disabled):hover {
+    cursor: pointer;
+    border: 1px solid #ffc10a;
+    color: black;
+    background-color: #ffc10a;
+}
+.bg-light {
+    background-color: #151515!important;
+}
+.navbar-light .navbar-toggler {
+    color: rgb(236 0 0 / 50%);
+    border-color: rgb(249 13 13 / 10%);
+    background-color: #ffc10a;
+    border: 2px solid #ffc10a;
+}
+
+
+.MyShop-offer .card-title {
+	color: black;
+	font-size: 23px;
+}
+.MyShop-offer .card-text {
+	color: black;
+	font-size: 18px;
+    font-weight: 500;
+}
+.MyShop-offer button{
+	width: 41%;
+    margin-top: 23%;
+    background-color: #ffc10a;
+    border: 2px solid #ffc10a; 
+}
+.MyShop-offer button:hover{
+	width: 41%;
+    margin-top: 23%;
+    color: white;
+    background-color: #151515;
+    border: 2px solid #fff; 
+}
+.MyShop{
+	padding-top: 3%;
+}
+.MyShop .MyShop-offer{
+	padding-top: 4%;
+}
+
+
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+
+.All-products .heading{
+  font-size: 30px;
+  font-weight: 500;
+  padding-top: 4.5%;
+}
+.All-products .heading ul li{
+  display: inline-block;
+  padding: 2.5% 0px 0px;
+  margin-right: 35px;
+  float: center;
+  font-size: 15px;
+}
+.All-products .heading button{
+  border: none;
+  background-color: white;
+}
+
+
+
+
+.myproducts-1 {
+  margin-top: 3.5%; 
+}
+.myproducts-1 .myproducts-dt button span{
+  color: #797875;
+}
+.myproducts-1 .myproducts-dt button{
+  color: black;
+  border: 1px solid #ffc10a;
+  background-color: #ffc10a;
+  width: 100%;
+  height: 40px;
+  margin-top: 10px;
+}
+.myproducts-dt .card-body{
+  background-color: #f7f7f7;
+}
+.myproducts-dt .card-body h6{
+  float: left; 
+  margin-left: 10px; 
+  color: black;
+}
+.myproducts-dt .card-body .icon{
+  margin-bottom: 10px;
+  float: left;
+  margin-left: 10px;
+  margin-top: -5%;
+}
+
+
+.dealoftheday {
+  background-color: #eeeeee;
+  margin-top: 4%; 
+}
+.deal .deal-heading{
+  font-size: 30px;
+  font-weight: 500;
+  padding-top: 3%;
+  color: black;
+  margin-bottom: 4%;
+}
+
+
+.product-dt .product-dt-heading span{
+  font-size: 24px;
+  font-weight: 500;
+}
+.product-dt .product-dt-heading span:hover{
+  color: #ffc10a;
+}
+.product-dt .product-dt-heading .icon {
+  margin-top: 2.8%;
+}
+.product-dt .product-dt-heading p{
+  margin-top: 2.5%;
+  font-size: 25px;
+  font-weight: 500;
+}
+.product-dt .product-dt-heading span del{
+  font-size: 17px;
+  font-weight: 500;
+  color: #777;
+}
+.product-dt .product-dt-heading .paregraph{
+  font-size: 15px;
+  color: #777;
+}
+.product-dt .details{
+  color: black;
+}
+.product-dt .details span{
+  color: #777777;
+} 
+
+
+.product-dt-heading button {
+  font-weight: 500;
+  border: 1px solid #ffc10a;
+  background-color: #ffc10a;
+  width: 30%;
+} 
+.product-dt-heading button:hover {
+  font-weight: 500;
+  border: 1px solid #151515;
+  background-color: #151515;
+  color: white;
+  width: 30%;
+}
+.product-dt-heading i.far.fa-heart {
+    margin-left: 10px;
+}
+.product-dt-heading i.far.fa-eye {
+    margin-left: 3%;
+}
+
+
+
+.sp-product-1{
+  margin-top: 2.5%;
+}
+.sp-product .sp-product-heading{
+  padding-top: 3.5%;
+}
+.sp-product .sp-product-heading span{
+  font-size: 30px;
+  font-weight: 500;
+}
+.sp-product-dt .card-body{
+  background-color: #f7f7f7;
+}
+.sp-product-dt .card-body button{
+  color: black;
+  border: 1px solid #ffc10a;
+  background-color: #ffc10a;
+  width: 100%;
+  height: 40px;
+  margin-top: 10px; 
+}
+.sp-product-dt .card-body span{
+  color: #797875;
+}
+.sp-product-dt .card-body h6{
+  float: left;  
+  color: black;
+}
+.sp-product-dt .card-body .icon{
+  float: left;
+  margin-top: -5%;
+}
+
+.claints{
+  padding-top: 4%;
+}
+.team .claints p{
+  font-size: 30px;
+  font-weight: 500;
+}
+.team .claints p span {
+    margin-left: 2%;
+    font-size: 16px;
+    color: #777;
+}
+.team .claints .text-1 {
+  font-size: 15px;
+  color: black;
+}
+
+
+
+.latestblog{
+  padding-top: 2%;
+  margin-bottom: 4%;
+}
+.lt-blog1{
+  padding-top: 3%;
+}
+.latestblog .blog-heading span{
+  font-size: 30px;
+  font-weight: 500;
+}
+.lt-blog1 .card-body .card-title{
+  padding-top: 7%;
+  color: black;
+}
+.lt-blog1 .card-body .card-text{
+  color: #777;
+  font-size: 14.5px;
+}
+.linkmove {
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: #000;
+  text-decoration: none;
+  background-image: linear-gradient(#fff, #fff),
+    linear-gradient(#000, #000);
+  background-size: 20px 2px, 100% 2px, 0 2px;
+  background-position: calc(20px * -1) 100%, 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size .3s linear, background-position .3s linear;
+}
+.lt-blog1 .card-body{
+  background-color: #f7f7f7;
+}
+.lt-blog1 .card-body a{
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+}
+.lt-blog1 .card-body a:hover{
+  color: black;
+}
+
+
+.myfutter {
+  padding-top: 2%;
+  background-color: #151515;
+}
+.contect-info{
+  padding-top: 42px;
+}
+.futter-info .contect-info .contect-heading{
+  color: #ffc10a;
+  font-size: 18px;
+  margin-bottom: 6%;
+}
+.futter-info .contect-info .address{
+    color: #ffc10a;
+    font-size: 16px;
+}
+.futter-info .contect-info .address span{
+    color: white;
+    margin-top: 8%;
+    font-size: 16px;
+}
+.futter-info .contect-info .phone{
+    color: #ffc10a;
+    font-size: 16px;
+}
+.futter-info .contect-info .phone span{
+    color: white;
+    font-size: 16px;
+}
+
+.products-info{
+  padding-top: 40px;
+}
+.products-info .products-heading{
+  color: #ffc10a;
+  font-size: 18px;
+}
+.products-info li{
+  list-style: none;
+  font-size: 17px;
+  padding: 8px 0px 0px;
+  font-weight: 500;
+}
+.products-info a{
+  color: white;
+  text-decoration: none;
+}
+.products-info a:hover{
+  color: #ffc10a;
+}
+
+
+.ourcompany-info{
+  padding-top: 35px;
+}
+.ourcompany-info .products-heading{
+  color: #ffc10a;
+  font-size: 18px;
+}
+.ourcompany-info li{
+  list-style: none;
+  font-size: 17px;
+  padding: 8px 0px 0px;
+  font-weight: 500;
+}
+.ourcompany-info a{
+  color: white;
+  text-decoration: none;
+}
+.ourcompany-info a:hover{
+  color: #ffc10a;
+}
+
+.newsletter-info{
+  padding-top: 35px;
+}
+.newsletter-info .products-heading{
+  color: #ffc10a;
+  font-size: 18px;
+}
+.newsletter-info .text{
+  padding-top: 5px;
+  color: white;
+}
+.newsletter-info .mail{
+  width: 70%;
+  height: 40px;
+  border: 1px solid #ffc10a;
+}
+.newsletter-info button{
+  height: 39px;
+  width: 12%;
+  border: 1px solid #ffc10a;
+  background-color: #ffc10a;
+}
